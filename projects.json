@@ -1,0 +1,18 @@
+{
+    "test": {
+        "project_name": "test",
+        "panel": "Pioneer LED P3.91 Outdoor (500x500mm)",
+        "processor": "Novastar VX400 (4 Ports)",
+        "width": 4.5,
+        "height": 3.0,
+        "rigging": "Bottom (Ground Stacked)",
+        "data_dir": "Vertical (Columns)",
+        "use_backups": true,
+        "auto_opt": true,
+        "loom_strat": "Maximize Port Capacity (Even chunks only)",
+        "voltage": 230,
+        "cable_type": "16A CEEFORM to PowerCON/True1 (16A Limit)",
+        "distro_phase": "3-Phase (415V)",
+        "distro_amps": 63
+    }
+}

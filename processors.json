@@ -1,0 +1,20 @@
+{
+    "Novastar VX400 (4 Ports)": {
+        "ports": 4
+    },
+    "Novastar VX600 (6 Ports)": {
+        "ports": 6
+    },
+    "Novastar VX1000 (10 Ports)": {
+        "ports": 10
+    },
+    "Novastar MCTRL4K (16 Ports)": {
+        "ports": 16
+    },
+    "Novastar NovaPro UHD Jr (16 Ports)": {
+        "ports": 16
+    },
+    "Brompton Tessera S8 (8 Ports)": {
+        "ports": 8
+    }
+}

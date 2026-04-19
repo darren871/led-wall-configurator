@@ -1,0 +1,82 @@
+{
+    "Absen Polaris PL2.5 Pro (500x500mm)": {
+        "width_mm": 500,
+        "height_mm": 500,
+        "res_w": 200,
+        "res_h": 200,
+        "max_power_w": 160,
+        "weight_kg": 8.7
+    },
+    "Absen Polaris PL3.9 Pro (500x500mm)": {
+        "width_mm": 500,
+        "height_mm": 500,
+        "res_w": 128,
+        "res_h": 128,
+        "max_power_w": 150,
+        "weight_kg": 8.7
+    },
+    "Unilumin UpadIV 2.6 (500x500mm)": {
+        "width_mm": 500,
+        "height_mm": 500,
+        "res_w": 192,
+        "res_h": 192,
+        "max_power_w": 160,
+        "weight_kg": 6.3
+    },
+    "Unilumin UpadIII 3.9 (500x500mm)": {
+        "width_mm": 500,
+        "height_mm": 500,
+        "res_w": 128,
+        "res_h": 128,
+        "max_power_w": 150,
+        "weight_kg": 9.2
+    },
+    "Gloshine Legend LS3.9 (500x1000mm)": {
+        "width_mm": 500,
+        "height_mm": 1000,
+        "res_w": 128,
+        "res_h": 256,
+        "max_power_w": 300,
+        "weight_kg": 12.5
+    },
+    "Gloshine ZS2.6 (500x500mm)": {
+        "width_mm": 500,
+        "height_mm": 500,
+        "res_w": 192,
+        "res_h": 192,
+        "max_power_w": 160,
+        "weight_kg": 8.0
+    },
+    "ROE Black Pearl BP2V2 (500x500mm)": {
+        "width_mm": 500,
+        "height_mm": 500,
+        "res_w": 176,
+        "res_h": 176,
+        "max_power_w": 140,
+        "weight_kg": 9.3
+    },
+    "ROE Carbon CB5 (600x1200mm)": {
+        "width_mm": 600,
+        "height_mm": 1200,
+        "res_w": 104,
+        "res_h": 208,
+        "max_power_w": 300,
+        "weight_kg": 14.0
+    },
+    "Pioneer LED P3.91 Outdoor (500x500mm)": {
+        "width_mm": 500,
+        "height_mm": 500,
+        "res_w": 128,
+        "res_h": 128,
+        "max_power_w": 200,
+        "weight_kg": 8.5
+    },
+    "Generic P3.9 (500x500mm)": {
+        "width_mm": 500,
+        "height_mm": 500,
+        "res_w": 128,
+        "res_h": 128,
+        "max_power_w": 150,
+        "weight_kg": 8.5
+    }
+}
