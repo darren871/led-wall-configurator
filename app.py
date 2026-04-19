@@ -144,7 +144,7 @@ def get_index(options_list, match_value):
     except ValueError: return 0
 
 # --- 2. GENERAL INPUTS ---
-st.title("Event Production Live - LED Video Wall Configurator")
+st.title("EPL - LED Video Wall Configurator")
 st.header("1. Hardware & Dimensions")
 
 col_hw1, col_hw2 = st.columns(2)
